@@ -1,0 +1,7 @@
+smiles,solvent,predictions,label
+CCN(CC)c1ccc2cc(C(=O)N/N=C/c3ccc(F)cc3)c(=O)oc2c1,CC#N,4.320539,4.6551
+COCCN1C(=O)c2cccc3c(C#Cc4ccc(OC)cc4)ccc(c23)C1=O,CCCCCC,4.2645483,4.4044
+COc1ccc(C#Cc2ccc3c4c(cccc24)C(=O)N(c2ccco2)C3=O)cc1,CCOC(C)=O,4.3370395,4.3689
+COc1ccc(C#Cc2ccc3c4c(cccc24)C(=O)N(c2cccs2)C3=O)cc1,COC(=O)c1ccccc1C(=O)OC,4.3530564,4.5238
+N#Cc1cccc2c(N3CCC3)ccc(C#N)c12,CC#N,4.2699146,3.9343
+N#Cc1cccc2c(N3CCC3)ccc(C#N)c12,CCO,4.300438,3.9118
